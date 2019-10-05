@@ -4,6 +4,7 @@ Twitter Sentiment analysis using Logistic Regression, Stochastic Gradient Descen
 There are many ways of doing sentiment analysis here i have used Logistic Regression, Stochastic Gradient Descent.
 
 What we need for doing sentiment analysis?
+
  1.) Library - Which library are we going to use? There are many ways to do sentiment analysis like
        -'NLTK', 'TEXTBLOB', 'Logistic Regression', 'VaderSentiment', 'Naive Bayes algo', 'SGD(Stochastic Gradient                    Descent)' etc.., 
 
